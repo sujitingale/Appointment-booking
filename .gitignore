@@ -1,0 +1,57 @@
+# Database configuration (contains sensitive information)
+config/database.php
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+error_log
+debug.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Cache
+cache/
+*.cache
+
+# Uploads (if you add file upload functionality)
+uploads/
+files/
+
+# Environment files
+.env
+.env.local
+
+# Backup files
+*.bak
+*.backup
+*.sql.gz
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# PHP
+vendor/
+composer.lock
+
+# Test files
+test-connection.php
+diagnose.php
+phpinfo.php
