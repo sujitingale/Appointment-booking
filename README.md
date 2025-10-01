@@ -55,7 +55,7 @@ Before you begin, ensure you have the following installed:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/medicare-appointment-system.git
+git clone https://github.com/sujitingale/Appointment-booking.git
 cd medicare-appointment-system
 ```
 
@@ -260,8 +260,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: https://github.com/sujitingale
+- Email: sujitingale04@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -273,7 +273,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 - Open an issue on GitHub
-- Contact: your.email@example.com
+- Contact: sujitingale04@gmail.com
 
 ## 🔮 Future Enhancements
 
@@ -299,7 +299,7 @@ If you encounter any issues or have questions:
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Sujit Ingale
 
 **⭐ If you find this project useful, please consider giving it a star!**
 =======
